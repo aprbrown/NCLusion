@@ -1,0 +1,12 @@
+export const GET_ERRORS = 'GET_ERRORS';
+export const SET_CURRENT_USER = 'SET_CURRENT_USER';
+export const GET_TRAIL = 'GET_TRAIL';
+export const GET_TRAILS = 'GET_TRAILS';
+export const TRAIL_LOADING = 'TRAIL_LOADING';
+export const GET_TEAM = 'GET_TEAM';
+export const GET_TEAMS = 'GET_TEAMS';
+export const GET_TEAMMATES = 'GET_TEAMMATES';
+export const TEAM_LOADING = 'TEAM_LOADING';
+export const GET_CLUE = 'GET_CLUE';
+export const GET_CLUES = 'GET_CLUES';
+export const CLUE_LOADING = 'CLUE_LOADING';
